@@ -1,0 +1,26 @@
+// Flowchart
+digraph {
+	0 [label="ract insights and knowledge from structured and un..."]
+	1 [label="It combines elements of statistics, computer scien..."]
+	0 -> 1
+	2 [label="In simpler terms, data science is about obtaining,..."]
+	1 -> 2
+	3 [label="The data science lifecycle
+The data science lifecy..."]
+	2 -> 3
+	4 [label="Data Science Process
+What Is the Data Science Proc..."]
+	3 -> 4
+	5 [label="It provides a structured framework for articulatin..."]
+	4 -> 5
+	6 [label="Data Engineers : They build and maintain data pipe..."]
+	5 -> 6
+	7 [label="Data Analysts: They focus on interpreting data and..."]
+	6 -> 7
+	8 [label="UNIT III INTRODUCTION TO DATA SCIENCE
+Najeem Dh..."]
+	7 -> 8
+	9 [label="What is Data Science:
+Data Science is an interdisc..."]
+	8 -> 9
+}
