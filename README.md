@@ -26,5 +26,5 @@ To build an **offline, document-aware question answering system** that:
 -  Context-based answer generation
 -  Fully offline NLP pipeline
 -  Academic-friendly and viva-explainable
-## 🗂️ Project Structure
+
 
